@@ -1,9 +1,13 @@
-# My React Project
+# Designer Portfolio
 
-[Live Demo Project](https://sayan-biswas01.github.io/SmsrtWatch-Landing_page/)
+This is my React + Vite portfolio project.
 
-### the project language
+## Live Demo
 
-'''javascript
-console.log('hello');
-'''
+[Live Demo](https://sayan-biswas01.github.io/SmsrtWatch-Landing_page/)
+
+## Technologies
+
+- React
+- Vite
+- CSS / Bootstrap
