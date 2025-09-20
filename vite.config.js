@@ -1,8 +1,7 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
-// https://vite.dev/config/
 export default defineConfig({
+  base: "/SmsrtWatch-Landing_page/", // রিপো নাম এখানে দিতে হবে
   plugins: [react()],
-  base: "/SmsrtWatch-Landing_page/",
 });
